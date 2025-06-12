@@ -104,7 +104,7 @@ A showcase of a full-stack Airbnb-style client project built with **Next.js**, *
 
 > A quick walkthrough showing all major features: listings, booking, payments, mobile responsiveness, and more.
 
-▶️ **[Click to watch the 2-minute Loom video]([https://www.loom.com/share/8f93e0f6d5404d41ae07594310ad1acf?sid=aecc8e9b-96d9-4317-a67b-2e30cb5d2fe8](https://www.loom.com/share/e2e8c8a6b3394db1a4c04b2ef4e47d3b?sid=aa32497e-7abf-4055-8830-c7c4f4af167b))**
+▶️ **[Click to watch the 2-minute Loom video](https://www.loom.com/share/e2e8c8a6b3394db1a4c04b2ef4e47d3b?sid=9017cd7f-c319-4c66-b926-63ac22cb2034)**
 
 ---
 
